@@ -24,3 +24,9 @@ a {
 #answer{
   background-color: rgb(255, 254, 205);
 }
+
+p{
+  color:black;
+  margin-left: 25px;
+  margin-top: 25px;
+}
